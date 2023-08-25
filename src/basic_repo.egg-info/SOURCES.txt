@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/basic_repo.egg-info/PKG-INFO
+src/basic_repo.egg-info/SOURCES.txt
+src/basic_repo.egg-info/dependency_links.txt
+src/basic_repo.egg-info/requires.txt
+src/basic_repo.egg-info/top_level.txt
+src/basicrepo/__init__.py
+src/basicrepo/testmodule.py
+src/basicrepo/utils.py
