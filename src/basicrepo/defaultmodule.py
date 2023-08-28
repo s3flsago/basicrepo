@@ -1,7 +1,7 @@
 import logging
 
 
-class DefaultCalss():
+class DefaultClass():
     """Default class"""
 
     @staticmethod

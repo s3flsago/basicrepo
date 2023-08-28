@@ -15,7 +15,7 @@ Efficiently launch Python projects using this comprehensive template.
 ## Getting Started
 
 1. Clone repository.
-2. Rename project directory (same accounts for the directory in src/).
-3. Replace `README.md`.
-4. Write code and tests in `src` and `tests` by initially replacing the default tests and classes.
+2. Rename project directory (same accounts for other files with default names and content).
+4. Run commands from Makefile to check if everything is set up correctly.
+5. Start developing :)
 

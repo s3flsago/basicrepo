@@ -4,7 +4,7 @@ install:
 	pip install --upgrade pip
 	pip install .
 
-make run:
+run:
 	python3 main.py
 
 run_tests:
